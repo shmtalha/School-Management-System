@@ -1,2 +1,2 @@
-# School-Management-System
+# School Management System
 Developed on Django (Python).
